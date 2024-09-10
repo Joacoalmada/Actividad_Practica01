@@ -1,0 +1,259 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\Problema_1.5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8523F45C-C51C-4A1E-BA4B-FBC73C13EC34}|Problema_1.5\\Problema_1.5.csproj|c:\\users\\usuario\\source\\repos\\problema_1.5\\problema_1.5\\datos\\utilidades\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8523F45C-C51C-4A1E-BA4B-FBC73C13EC34}|Problema_1.5\\Problema_1.5.csproj|solutionrelative:problema_1.5\\datos\\utilidades\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8523F45C-C51C-4A1E-BA4B-FBC73C13EC34}|Problema_1.5\\Problema_1.5.csproj|c:\\users\\usuario\\source\\repos\\problema_1.5\\problema_1.5\\datos\\utilidades\\parametrossql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8523F45C-C51C-4A1E-BA4B-FBC73C13EC34}|Problema_1.5\\Problema_1.5.csproj|solutionrelative:problema_1.5\\datos\\utilidades\\parametrossql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8523F45C-C51C-4A1E-BA4B-FBC73C13EC34}|Problema_1.5\\Problema_1.5.csproj|c:\\users\\usuario\\source\\repos\\problema_1.5\\problema_1.5\\datos\\articulorepositoriodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8523F45C-C51C-4A1E-BA4B-FBC73C13EC34}|Problema_1.5\\Problema_1.5.csproj|solutionrelative:problema_1.5\\datos\\articulorepositoriodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8523F45C-C51C-4A1E-BA4B-FBC73C13EC34}|Problema_1.5\\Problema_1.5.csproj|c:\\users\\usuario\\source\\repos\\problema_1.5\\problema_1.5\\datos\\facturarepositoriodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8523F45C-C51C-4A1E-BA4B-FBC73C13EC34}|Problema_1.5\\Problema_1.5.csproj|solutionrelative:problema_1.5\\datos\\facturarepositoriodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8523F45C-C51C-4A1E-BA4B-FBC73C13EC34}|Problema_1.5\\Problema_1.5.csproj|c:\\users\\usuario\\source\\repos\\problema_1.5\\problema_1.5\\datos\\formapagorepositoriodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8523F45C-C51C-4A1E-BA4B-FBC73C13EC34}|Problema_1.5\\Problema_1.5.csproj|solutionrelative:problema_1.5\\datos\\formapagorepositoriodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8523F45C-C51C-4A1E-BA4B-FBC73C13EC34}|Problema_1.5\\Problema_1.5.csproj|c:\\users\\usuario\\source\\repos\\problema_1.5\\problema_1.5\\datos\\iarticulorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8523F45C-C51C-4A1E-BA4B-FBC73C13EC34}|Problema_1.5\\Problema_1.5.csproj|solutionrelative:problema_1.5\\datos\\iarticulorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8523F45C-C51C-4A1E-BA4B-FBC73C13EC34}|Problema_1.5\\Problema_1.5.csproj|c:\\users\\usuario\\source\\repos\\problema_1.5\\problema_1.5\\datos\\ifacturarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8523F45C-C51C-4A1E-BA4B-FBC73C13EC34}|Problema_1.5\\Problema_1.5.csproj|solutionrelative:problema_1.5\\datos\\ifacturarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8523F45C-C51C-4A1E-BA4B-FBC73C13EC34}|Problema_1.5\\Problema_1.5.csproj|c:\\users\\usuario\\source\\repos\\problema_1.5\\problema_1.5\\datos\\iformapagorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8523F45C-C51C-4A1E-BA4B-FBC73C13EC34}|Problema_1.5\\Problema_1.5.csproj|solutionrelative:problema_1.5\\datos\\iformapagorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8523F45C-C51C-4A1E-BA4B-FBC73C13EC34}|Problema_1.5\\Problema_1.5.csproj|c:\\users\\usuario\\source\\repos\\problema_1.5\\problema_1.5\\dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8523F45C-C51C-4A1E-BA4B-FBC73C13EC34}|Problema_1.5\\Problema_1.5.csproj|solutionrelative:problema_1.5\\dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8523F45C-C51C-4A1E-BA4B-FBC73C13EC34}|Problema_1.5\\Problema_1.5.csproj|c:\\users\\usuario\\source\\repos\\problema_1.5\\problema_1.5\\dominio\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8523F45C-C51C-4A1E-BA4B-FBC73C13EC34}|Problema_1.5\\Problema_1.5.csproj|solutionrelative:problema_1.5\\dominio\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8523F45C-C51C-4A1E-BA4B-FBC73C13EC34}|Problema_1.5\\Problema_1.5.csproj|c:\\users\\usuario\\source\\repos\\problema_1.5\\problema_1.5\\dominio\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8523F45C-C51C-4A1E-BA4B-FBC73C13EC34}|Problema_1.5\\Problema_1.5.csproj|solutionrelative:problema_1.5\\dominio\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8523F45C-C51C-4A1E-BA4B-FBC73C13EC34}|Problema_1.5\\Problema_1.5.csproj|c:\\users\\usuario\\source\\repos\\problema_1.5\\problema_1.5\\dominio\\formapago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8523F45C-C51C-4A1E-BA4B-FBC73C13EC34}|Problema_1.5\\Problema_1.5.csproj|solutionrelative:problema_1.5\\dominio\\formapago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8523F45C-C51C-4A1E-BA4B-FBC73C13EC34}|Problema_1.5\\Problema_1.5.csproj|c:\\users\\usuario\\source\\repos\\problema_1.5\\problema_1.5\\servicios\\facturagestor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8523F45C-C51C-4A1E-BA4B-FBC73C13EC34}|Problema_1.5\\Problema_1.5.csproj|solutionrelative:problema_1.5\\servicios\\facturagestor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8523F45C-C51C-4A1E-BA4B-FBC73C13EC34}|Problema_1.5\\Problema_1.5.csproj|c:\\users\\usuario\\source\\repos\\problema_1.5\\problema_1.5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8523F45C-C51C-4A1E-BA4B-FBC73C13EC34}|Problema_1.5\\Problema_1.5.csproj|solutionrelative:problema_1.5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Problema_1.5\\Problema_1.5\\Program.cs",
+              "RelativeDocumentMoniker": "Problema_1.5\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Problema_1.5\\Problema_1.5\\Program.cs",
+              "RelativeToolTip": "Problema_1.5\\Program.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAABkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T21:48:41.327Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FacturaRepositorioDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Problema_1.5\\Problema_1.5\\Datos\\FacturaRepositorioDAO.cs",
+              "RelativeDocumentMoniker": "Problema_1.5\\Datos\\FacturaRepositorioDAO.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Problema_1.5\\Problema_1.5\\Datos\\FacturaRepositorioDAO.cs",
+              "RelativeToolTip": "Problema_1.5\\Datos\\FacturaRepositorioDAO.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAowCoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T21:53:37.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArticuloRepositorioDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Problema_1.5\\Problema_1.5\\Datos\\ArticuloRepositorioDAO.cs",
+              "RelativeDocumentMoniker": "Problema_1.5\\Datos\\ArticuloRepositorioDAO.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Problema_1.5\\Problema_1.5\\Datos\\ArticuloRepositorioDAO.cs",
+              "RelativeToolTip": "Problema_1.5\\Datos\\ArticuloRepositorioDAO.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowBIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T14:41:13.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParametrosSQL.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Problema_1.5\\Problema_1.5\\Datos\\Utilidades\\ParametrosSQL.cs",
+              "RelativeDocumentMoniker": "Problema_1.5\\Datos\\Utilidades\\ParametrosSQL.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Problema_1.5\\Problema_1.5\\Datos\\Utilidades\\ParametrosSQL.cs",
+              "RelativeToolTip": "Problema_1.5\\Datos\\Utilidades\\ParametrosSQL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T21:55:27.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Problema_1.5\\Problema_1.5\\Datos\\Utilidades\\DataHelper.cs",
+              "RelativeDocumentMoniker": "Problema_1.5\\Datos\\Utilidades\\DataHelper.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Problema_1.5\\Problema_1.5\\Datos\\Utilidades\\DataHelper.cs",
+              "RelativeToolTip": "Problema_1.5\\Datos\\Utilidades\\DataHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T21:55:10.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormaPagoRepositorioDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Problema_1.5\\Problema_1.5\\Datos\\FormaPagoRepositorioDAO.cs",
+              "RelativeDocumentMoniker": "Problema_1.5\\Datos\\FormaPagoRepositorioDAO.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Problema_1.5\\Problema_1.5\\Datos\\FormaPagoRepositorioDAO.cs",
+              "RelativeToolTip": "Problema_1.5\\Datos\\FormaPagoRepositorioDAO.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBEAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T02:35:48.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IArticuloRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Problema_1.5\\Problema_1.5\\Datos\\IArticuloRepositorio.cs",
+              "RelativeDocumentMoniker": "Problema_1.5\\Datos\\IArticuloRepositorio.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Problema_1.5\\Problema_1.5\\Datos\\IArticuloRepositorio.cs",
+              "RelativeToolTip": "Problema_1.5\\Datos\\IArticuloRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T14:41:17.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IFacturaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Problema_1.5\\Problema_1.5\\Datos\\IFacturaRepositorio.cs",
+              "RelativeDocumentMoniker": "Problema_1.5\\Datos\\IFacturaRepositorio.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Problema_1.5\\Problema_1.5\\Datos\\IFacturaRepositorio.cs",
+              "RelativeToolTip": "Problema_1.5\\Datos\\IFacturaRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T14:28:03.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IFormaPagoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Problema_1.5\\Problema_1.5\\Datos\\IFormaPagoRepositorio.cs",
+              "RelativeDocumentMoniker": "Problema_1.5\\Datos\\IFormaPagoRepositorio.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Problema_1.5\\Problema_1.5\\Datos\\IFormaPagoRepositorio.cs",
+              "RelativeToolTip": "Problema_1.5\\Datos\\IFormaPagoRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T14:39:51.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Problema_1.5\\Problema_1.5\\Dominio\\Articulo.cs",
+              "RelativeDocumentMoniker": "Problema_1.5\\Dominio\\Articulo.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Problema_1.5\\Problema_1.5\\Dominio\\Articulo.cs",
+              "RelativeToolTip": "Problema_1.5\\Dominio\\Articulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T21:57:35.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DetalleFactura.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Problema_1.5\\Problema_1.5\\Dominio\\DetalleFactura.cs",
+              "RelativeDocumentMoniker": "Problema_1.5\\Dominio\\DetalleFactura.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Problema_1.5\\Problema_1.5\\Dominio\\DetalleFactura.cs",
+              "RelativeToolTip": "Problema_1.5\\Dominio\\DetalleFactura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T21:57:12.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Problema_1.5\\Problema_1.5\\Dominio\\Factura.cs",
+              "RelativeDocumentMoniker": "Problema_1.5\\Dominio\\Factura.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Problema_1.5\\Problema_1.5\\Dominio\\Factura.cs",
+              "RelativeToolTip": "Problema_1.5\\Dominio\\Factura.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBMAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T01:42:52.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormaPago.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Problema_1.5\\Problema_1.5\\Dominio\\FormaPago.cs",
+              "RelativeDocumentMoniker": "Problema_1.5\\Dominio\\FormaPago.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Problema_1.5\\Problema_1.5\\Dominio\\FormaPago.cs",
+              "RelativeToolTip": "Problema_1.5\\Dominio\\FormaPago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T14:29:08.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FacturaGestor.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Problema_1.5\\Problema_1.5\\Servicios\\FacturaGestor.cs",
+              "RelativeDocumentMoniker": "Problema_1.5\\Servicios\\FacturaGestor.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Problema_1.5\\Problema_1.5\\Servicios\\FacturaGestor.cs",
+              "RelativeToolTip": "Problema_1.5\\Servicios\\FacturaGestor.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwC8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T14:39:40.911Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
