@@ -1,0 +1,220 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\WebAPI1_5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D559EA91-C430-4933-89D4-187939A03816}|Facturacion\\Facturacion.csproj|c:\\users\\usuario\\source\\repos\\webapi1_5\\facturacion\\data\\articulorepositoriodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D559EA91-C430-4933-89D4-187939A03816}|Facturacion\\Facturacion.csproj|solutionrelative:facturacion\\data\\articulorepositoriodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D559EA91-C430-4933-89D4-187939A03816}|Facturacion\\Facturacion.csproj|c:\\users\\usuario\\source\\repos\\webapi1_5\\facturacion\\data\\parametrossql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D559EA91-C430-4933-89D4-187939A03816}|Facturacion\\Facturacion.csproj|solutionrelative:facturacion\\data\\parametrossql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D559EA91-C430-4933-89D4-187939A03816}|Facturacion\\Facturacion.csproj|c:\\users\\usuario\\source\\repos\\webapi1_5\\facturacion\\servicio\\aplicacionservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D559EA91-C430-4933-89D4-187939A03816}|Facturacion\\Facturacion.csproj|solutionrelative:facturacion\\servicio\\aplicacionservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D559EA91-C430-4933-89D4-187939A03816}|Facturacion\\Facturacion.csproj|c:\\users\\usuario\\source\\repos\\webapi1_5\\facturacion\\servicio\\iaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D559EA91-C430-4933-89D4-187939A03816}|Facturacion\\Facturacion.csproj|solutionrelative:facturacion\\servicio\\iaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4A4E7A-160F-49AF-9E33-118E34323EF1}|WebAPI1_5\\WebAPI1_5.csproj|c:\\users\\usuario\\source\\repos\\webapi1_5\\webapi1_5\\controllers\\articulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4A4E7A-160F-49AF-9E33-118E34323EF1}|WebAPI1_5\\WebAPI1_5.csproj|solutionrelative:webapi1_5\\controllers\\articulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D559EA91-C430-4933-89D4-187939A03816}|Facturacion\\Facturacion.csproj|c:\\users\\usuario\\source\\repos\\webapi1_5\\facturacion\\data\\iarticulorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D559EA91-C430-4933-89D4-187939A03816}|Facturacion\\Facturacion.csproj|solutionrelative:facturacion\\data\\iarticulorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D559EA91-C430-4933-89D4-187939A03816}|Facturacion\\Facturacion.csproj|c:\\users\\usuario\\source\\repos\\webapi1_5\\facturacion\\data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D559EA91-C430-4933-89D4-187939A03816}|Facturacion\\Facturacion.csproj|solutionrelative:facturacion\\data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4A4E7A-160F-49AF-9E33-118E34323EF1}|WebAPI1_5\\WebAPI1_5.csproj|c:\\users\\usuario\\source\\repos\\webapi1_5\\webapi1_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4A4E7A-160F-49AF-9E33-118E34323EF1}|WebAPI1_5\\WebAPI1_5.csproj|solutionrelative:webapi1_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D559EA91-C430-4933-89D4-187939A03816}|Facturacion\\Facturacion.csproj|c:\\users\\usuario\\source\\repos\\webapi1_5\\facturacion\\entidades\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D559EA91-C430-4933-89D4-187939A03816}|Facturacion\\Facturacion.csproj|solutionrelative:facturacion\\entidades\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D559EA91-C430-4933-89D4-187939A03816}|Facturacion\\Facturacion.csproj|c:\\users\\usuario\\source\\repos\\webapi1_5\\facturacion\\entidades\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D559EA91-C430-4933-89D4-187939A03816}|Facturacion\\Facturacion.csproj|solutionrelative:facturacion\\entidades\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D559EA91-C430-4933-89D4-187939A03816}|Facturacion\\Facturacion.csproj|c:\\users\\usuario\\source\\repos\\webapi1_5\\facturacion\\entidades\\formapago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D559EA91-C430-4933-89D4-187939A03816}|Facturacion\\Facturacion.csproj|solutionrelative:facturacion\\entidades\\formapago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D559EA91-C430-4933-89D4-187939A03816}|Facturacion\\Facturacion.csproj|c:\\users\\usuario\\source\\repos\\webapi1_5\\facturacion\\entidades\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D559EA91-C430-4933-89D4-187939A03816}|Facturacion\\Facturacion.csproj|solutionrelative:facturacion\\entidades\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArticuloRepositorioDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\WebAPI1_5\\Facturacion\\Data\\ArticuloRepositorioDAO.cs",
+              "RelativeDocumentMoniker": "Facturacion\\Data\\ArticuloRepositorioDAO.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\WebAPI1_5\\Facturacion\\Data\\ArticuloRepositorioDAO.cs",
+              "RelativeToolTip": "Facturacion\\Data\\ArticuloRepositorioDAO.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowCIAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T23:47:16.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParametrosSQL.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\WebAPI1_5\\Facturacion\\Data\\ParametrosSQL.cs",
+              "RelativeDocumentMoniker": "Facturacion\\Data\\ParametrosSQL.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\WebAPI1_5\\Facturacion\\Data\\ParametrosSQL.cs",
+              "RelativeToolTip": "Facturacion\\Data\\ParametrosSQL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T23:46:27.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AplicacionServicio.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\WebAPI1_5\\Facturacion\\Servicio\\AplicacionServicio.cs",
+              "RelativeDocumentMoniker": "Facturacion\\Servicio\\AplicacionServicio.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\WebAPI1_5\\Facturacion\\Servicio\\AplicacionServicio.cs",
+              "RelativeToolTip": "Facturacion\\Servicio\\AplicacionServicio.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T00:00:15.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\WebAPI1_5\\Facturacion\\Servicio\\IAplicacion.cs",
+              "RelativeDocumentMoniker": "Facturacion\\Servicio\\IAplicacion.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\WebAPI1_5\\Facturacion\\Servicio\\IAplicacion.cs",
+              "RelativeToolTip": "Facturacion\\Servicio\\IAplicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T23:57:54.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArticuloController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\WebAPI1_5\\WebAPI1_5\\Controllers\\ArticuloController.cs",
+              "RelativeDocumentMoniker": "WebAPI1_5\\Controllers\\ArticuloController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\WebAPI1_5\\WebAPI1_5\\Controllers\\ArticuloController.cs",
+              "RelativeToolTip": "WebAPI1_5\\Controllers\\ArticuloController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T00:06:29.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IArticuloRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\WebAPI1_5\\Facturacion\\Data\\IArticuloRepositorio.cs",
+              "RelativeDocumentMoniker": "Facturacion\\Data\\IArticuloRepositorio.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\WebAPI1_5\\Facturacion\\Data\\IArticuloRepositorio.cs",
+              "RelativeToolTip": "Facturacion\\Data\\IArticuloRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T23:46:47.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\WebAPI1_5\\Facturacion\\Data\\DataHelper.cs",
+              "RelativeDocumentMoniker": "Facturacion\\Data\\DataHelper.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\WebAPI1_5\\Facturacion\\Data\\DataHelper.cs",
+              "RelativeToolTip": "Facturacion\\Data\\DataHelper.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwDMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T23:38:54.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\WebAPI1_5\\WebAPI1_5\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI1_5\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\WebAPI1_5\\WebAPI1_5\\Program.cs",
+              "RelativeToolTip": "WebAPI1_5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T23:35:02.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\WebAPI1_5\\Facturacion\\Entidades\\Articulo.cs",
+              "RelativeDocumentMoniker": "Facturacion\\Entidades\\Articulo.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\WebAPI1_5\\Facturacion\\Entidades\\Articulo.cs",
+              "RelativeToolTip": "Facturacion\\Entidades\\Articulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T23:48:09.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\WebAPI1_5\\Facturacion\\Entidades\\Factura.cs",
+              "RelativeDocumentMoniker": "Facturacion\\Entidades\\Factura.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\WebAPI1_5\\Facturacion\\Entidades\\Factura.cs",
+              "RelativeToolTip": "Facturacion\\Entidades\\Factura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T23:48:31.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormaPago.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\WebAPI1_5\\Facturacion\\Entidades\\FormaPago.cs",
+              "RelativeDocumentMoniker": "Facturacion\\Entidades\\FormaPago.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\WebAPI1_5\\Facturacion\\Entidades\\FormaPago.cs",
+              "RelativeToolTip": "Facturacion\\Entidades\\FormaPago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T00:27:34.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DetalleFactura.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\WebAPI1_5\\Facturacion\\Entidades\\DetalleFactura.cs",
+              "RelativeDocumentMoniker": "Facturacion\\Entidades\\DetalleFactura.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\WebAPI1_5\\Facturacion\\Entidades\\DetalleFactura.cs",
+              "RelativeToolTip": "Facturacion\\Entidades\\DetalleFactura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T23:48:26.129Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

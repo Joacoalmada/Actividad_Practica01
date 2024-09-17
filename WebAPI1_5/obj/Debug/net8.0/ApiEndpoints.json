@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "WebAPI1_5.Controllers.ArticuloController",
+    "Method": "Post",
+    "RelativePath": "api/Articulo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "articulo",
+        "Type": "Facturacion.Entidades.Articulo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPI1_5.Controllers.ArticuloController",
+    "Method": "Delete",
+    "RelativePath": "api/Articulo",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPI1_5.Controllers.ArticuloController",
+    "Method": "Get",
+    "RelativePath": "api/Articulo/Mostrar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

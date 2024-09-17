@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\WebAPI1_5\Facturacion\obj\Debug\net8.0\Facturacion.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\WebAPI1_5\Facturacion\obj\Debug\net8.0\Facturacion.Properties.Resources.resources
+C:\Users\Usuario\source\repos\WebAPI1_5\Facturacion\obj\Debug\net8.0\Facturacion.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\WebAPI1_5\Facturacion\obj\Debug\net8.0\Facturacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\WebAPI1_5\Facturacion\obj\Debug\net8.0\Facturacion.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\WebAPI1_5\Facturacion\obj\Debug\net8.0\Facturacion.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\WebAPI1_5\Facturacion\obj\Debug\net8.0\Facturacion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\WebAPI1_5\Facturacion\obj\Debug\net8.0\Facturacion.sourcelink.json
+C:\Users\Usuario\source\repos\WebAPI1_5\Facturacion\bin\Debug\net8.0\Facturacion.deps.json
+C:\Users\Usuario\source\repos\WebAPI1_5\Facturacion\bin\Debug\net8.0\Facturacion.dll
+C:\Users\Usuario\source\repos\WebAPI1_5\Facturacion\bin\Debug\net8.0\Facturacion.pdb
+C:\Users\Usuario\source\repos\WebAPI1_5\Facturacion\obj\Debug\net8.0\Facturacion.dll
+C:\Users\Usuario\source\repos\WebAPI1_5\Facturacion\obj\Debug\net8.0\refint\Facturacion.dll
+C:\Users\Usuario\source\repos\WebAPI1_5\Facturacion\obj\Debug\net8.0\Facturacion.pdb
+C:\Users\Usuario\source\repos\WebAPI1_5\Facturacion\obj\Debug\net8.0\ref\Facturacion.dll
